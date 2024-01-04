@@ -1,0 +1,21 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "React_Node_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Akash Sawant",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
